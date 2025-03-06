@@ -21,8 +21,8 @@ The Client wanted to move their current game *Draw It or Lose It* to other platf
 
   ## My considerations for the user.
 
-  The end user or the user is the one that will be using the game the most not so much the developers or the client. This is why we need to consider the user.
+  The end user or the user is the one that will be using the game the most, not so much the developers or the client. This is why we need to consider the user.
 
   ## Would I take a different approach?
 
-  I don't think I would take a different approach the process is very good.
+  I don't think I would take a different approach, the process is very good.
